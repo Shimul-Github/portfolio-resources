@@ -211,3 +211,33 @@ hr{
     margin: 5px 0px;
 }
 
+/* footer section styles */
+
+footer{
+    background: #FFF8F3;
+}
+
+.footer-column-container{
+    display: flex;
+    gap: 115px;
+    padding: 130px 230px;
+}
+.footer-column-connect .description{
+    color:  #474747;
+ 
+font-size: 16px;
+ 
+font-weight: 400;
+line-height: 28px; /* 175% */
+
+}
+.footer-column-message form input{
+    margin-bottom: 8px;
+    height: 64px;
+    width: 461px;
+}
+.footer-column-message textarea{
+    width: 461px;
+    height: 180px;
+
+}
